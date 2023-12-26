@@ -39,7 +39,7 @@ namespace Tyuiu.GunbinNA.Sprint2.Task3.V14
 
             var res = ds.Calculate(x);
             Console.WriteLine(res);
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
